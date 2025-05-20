@@ -2,9 +2,10 @@ package main
 
 import (
 	"fmt"
-	"ormx/generate"
 	"os"
 	"path/filepath"
+
+	"github.com/devmox/ormx/generate"
 )
 
 func main() {
