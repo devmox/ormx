@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"ormx/internal/generate"
+	"ormx/generate"
 	"os"
 	"path/filepath"
 )
